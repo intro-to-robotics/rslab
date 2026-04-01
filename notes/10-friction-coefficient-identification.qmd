@@ -1,5 +1,0 @@
----
-title: "Friction Coefficient Identification"
----
-
-Content coming soon.

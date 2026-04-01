@@ -1,5 +1,0 @@
----
-title: "Friction Compensation"
----
-
-Content coming soon.
