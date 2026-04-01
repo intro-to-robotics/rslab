@@ -1,0 +1,29 @@
+# Quarto
+.deno/
+.quarto/
+_freeze/
+docs/
+**/*.quarto_ipynb
+
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+.ipynb_checkpoints
+
+# Virtual environments
+.venv/
+.venv-quarto/
+env/
+venv/
+
+# Environment files
+.env
+.envrc
+
+# Caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+/.quarto/

@@ -1,0 +1,10 @@
+---
+title: "Code"
+---
+
+Code and assets can be organized here.
+
+## Suggested structure
+
+- `code/experiments/` for project-specific scripts
+- `code/shared/` for reusable utilities

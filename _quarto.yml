@@ -1,0 +1,80 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - slides/*.qmd
+    - notes/*.qmd
+    - code/*.qmd
+  resources:
+    - code/**/*.py
+    - code/**/*.ipynb
+    - code/**/*.md
+    - code/**/*.txt
+    - code/**/*.csv
+    - code/**/*.json
+    - code/**/*.png
+    - code/**/*.gif
+
+website:
+  title: "Robotic Systems Laboratory"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: notes/index.qmd
+        text: Lecture Notes
+      # - href: slides/index.qmd
+      #   text: Slides
+      # - href: code/index.qmd
+      #   text: Code
+  page-footer:
+    left: "rslab"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - styles/mit-website.scss
+    filters:
+      - callouty-theorem
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-copy: true
+    anchor-sections: true
+
+callouty-theorem:
+  def:
+    override-title: false
+    callout:
+      type: definition
+      appearance: minimal
+      collapse: false
+      icon: false
+  thm:
+    override-title: false
+    callout:
+      type: theorem
+      appearance: minimal
+      collapse: false
+      icon: false
+  proof:
+    override-title: false
+    callout:
+      type: note
+      appearance: minimal
+      collapse: false
+      icon: false
+  exm:
+    override-title: false
+    callout:
+      type: example
+      appearance: minimal
+      collapse: false
+      icon: false
+
+execute:
+  freeze: auto

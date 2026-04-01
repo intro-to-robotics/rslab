@@ -1,0 +1,9 @@
+---
+title: "Slides"
+---
+
+Slide decks for this project.
+
+## Decks
+
+- [Welcome](01-welcome.qmd)

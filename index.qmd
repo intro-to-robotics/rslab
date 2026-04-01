@@ -1,0 +1,20 @@
+---
+title: "Robotic Systems Laboratory"
+subtitle: "Project website starter"
+---
+
+## Overview
+
+This site is a clean template adapted from `course-website`.
+
+Add your own:
+
+- notes in `notes/`
+- slides in `slides/`
+- code and assets in `code/`
+
+## Getting Started
+
+- Edit this homepage in `index.qmd`
+- Update site settings in `_quarto.yml`
+- Run `quarto preview` to iterate locally
