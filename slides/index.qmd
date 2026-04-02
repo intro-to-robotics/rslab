@@ -2,8 +2,21 @@
 title: "Slides"
 ---
 
-Slide decks for this project.
-
-## Decks
-
-- [Welcome](01-welcome.qmd)
+#### Slides
+<div style="font-size: 0.55em;">
+::::: {.lecture-list}
+[Lecture 01: Course Introduction](01-welcome.qmd)<br>
+Lecture 02: Physics Simulation<br>
+Lecture 03: LCM Communication<br>
+Lecture 04: Gravity Compensation<br>
+Lecture 05: Robot Collision Geometry Modeling<br>
+Lecture 06: Artificial Potential Fields<br>
+Lecture 07: Motion Planning and Trajectory Tracking<br>
+Lecture 08: Operational Space Impedance Control<br>
+Lecture 09: Velocity Field Control<br>
+Lecture 10: Camera Calibration<br>
+Lecture 11: Signed Distance Field Construction<br>
+Lecture 12: Visual Servoing<br>
+Lecture 13: Robotic Grasping<br>
+:::::
+</div>

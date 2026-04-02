@@ -4,7 +4,7 @@ title: "Lecture Notes"
 
 ::: {.lecture-list}
 ### Introduction {.unnumbered}
-Lecture 01: Course Introduction 
+[Lecture 01: Course Introduction](01-welcome.qmd)
 
 ### Robotics Software Architecture {.unnumbered}
 Lecture 02: Physics Simulation<br>

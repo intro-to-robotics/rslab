@@ -31,4 +31,5 @@ robotic autonomy.
 |  | Week 12 | Lecture 13: Robotic Grasping | | |
 |  | Week 13~16 | Final Projects | | |
 
-Full notes index: [Lecture Notes](notes/index.qmd).
+Full notes index: [Lecture Notes](notes/index.qmd) <br>
+Full slides index: [Lecture Slides](slides/index.qmd)

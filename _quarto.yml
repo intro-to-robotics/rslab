@@ -24,8 +24,8 @@ website:
         text: Home
       - href: notes/index.qmd
         text: Lecture Notes
-      # - href: slides/index.qmd
-      #   text: Slides
+      - href: slides/index.qmd
+        text: Slides
       # - href: code/index.qmd
       #   text: Code
   page-footer:
