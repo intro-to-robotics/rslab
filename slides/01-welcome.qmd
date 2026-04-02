@@ -1,7 +1,42 @@
 ---
-title: "Welcome"
+title: "Course Introduction"
+subtitle: "Instructor: Yonghyeon Lee"
+format:
+  revealjs:
+    slide-number: true
+    incremental: true
 ---
 
-## rslab
+## Course Logistics
 
-Template slide deck. Replace with your own material.
+- **Website**: [https://intro-to-robotics.github.io/rslab/](https://intro-to-robotics.github.io/rslab/)
+- Speak up and participate! Please interrupt me at anytime.
+- If something is unclear, please ask. I may not have explained it clearly enough, and others may be wondering the same thing.
+
+## Weekly Real-Robot Assignment (Week 3-10)
+
+- From **Week 3 to Week 10**, each week includes one implementation assignment.
+- You will implement algorithms on the real robots prepared in the lab.
+- For submission, record and upload a short video showing the robot working correctly.
+
+## Simulation-First Preparation
+
+- Prepare your planning, control, and perception code before coming to the lab.
+- Make sure your code runs correctly in simulation first.
+- This allows you to directly test on real robots during your lab slot.
+
+## Robot Access and Time Slots
+
+- Each student is guaranteed time to use the robot in the lab.
+- Additional time slots will be provided when extra testing is needed.
+- Come prepared so you can use real-robot time efficiently.
+- All the details will be on the Website
+- Assessment:
+  - 80\% 10 Assignments (8\% each)
+  - 20\% 5-minute video presentation for the final project 
+
+
+## Final Project
+- Using concepts learned in this course, implement a robotic pipeline that connects perception, planning, and control.
+- The task can be anything; for example, grasping one block and stacking it on another.
+- Real-time reactive control is preferred (your system should respond quickly and safely to changes in the scene).

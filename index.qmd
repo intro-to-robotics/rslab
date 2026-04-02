@@ -1,7 +1,9 @@
 ---
 title: "Robotic Systems Laboratory"
-subtitle: "Course website"
+subtitle: "Course Website Demo"
 ---
+
+Lecturer: [Yonghyeon Lee](https://www.gabe-yhlee.com)
 
 ## Syllabus
 
@@ -12,20 +14,21 @@ robotic autonomy.
 
 ### Lecture Schedule
 
-| Date | Week | Lecture |
-|---|---|---|
-| TBD | Week 1 | [Lecture 01: Physics Simulation](notes/01-physics-simulation.qmd) |
-| TBD | Week 2 | [Lecture 02: LCM Communication](notes/02-lcm-based-communication-and-control.qmd) |
-| TBD | Week 3 | [Lecture 03: Gravity Compensation](notes/03-gravity-compensation.qmd) |
-| TBD | Week 4 | [Lecture 04: Robot Collision Geometry Modeling](notes/04-robot-collision-geometry-modeling.qmd) |
-| TBD | Week 5 | [Lecture 05: Artificial Potential Fields](notes/05-artificial-potential-fields.qmd) |
-| TBD | Week 6 | [Lecture 06: Motion Planning and Trajectory Tracking](notes/06-motion-planning-and-trajectory-tracking.qmd) |
-| TBD | Week 7 | [Lecture 07: Operational Space Impedance Control](notes/07-operational-space-impedance-control.qmd) |
-| TBD | Week 8 | [Lecture 08: Velocity Field Control](notes/08-velocity-field-control.qmd) |
-| TBD | Week 9 | [Lecture 09: Camera Calibration](notes/09-camera-calibration.qmd) |
-| TBD | Week 10 | [Lecture 10: Signed Distance Field Construction](notes/10-signed-distance-field-construction.qmd) |
-| TBD | Week 11 | [Lecture 11: Visual Servoing](notes/11-visual-servoing.qmd) |
-| TBD | Week 12 | [Lecture 12: Robotic Grasping](notes/12-robotic-grasping.qmd) |
-| TBD | Week 13~16 | [Final Projects](notes/final-projects.qmd) |
+| Date | Week | Lecture | Notes | Slides |
+|---|---|---|---|---|
+|  | Week 1 | Lecture 01: Course Introduction | [Notes](notes/01-welcome.qmd) | [Slides](slides/01-welcome.qmd) |
+|  | Week 1 | Lecture 02: Physics Simulation | | |
+|  | Week 2 | Lecture 03: LCM Communication | | |
+|  | Week 3 | Lecture 04: Gravity Compensation | | |
+|  | Week 4 | Lecture 05: Robot Collision Geometry Modeling | | |
+|  | Week 5 | Lecture 06: Artificial Potential Fields | | |
+|  | Week 6 | Lecture 07: Motion Planning and Trajectory Tracking | | |
+|  | Week 7 | Lecture 08: Operational Space Impedance Control | | |
+|  | Week 8 | Lecture 09: Velocity Field Control | | |
+|  | Week 9 | Lecture 10: Camera Calibration | | |
+|  | Week 10 | Lecture 11: Signed Distance Field Construction | | |
+|  | Week 11 | Lecture 12: Visual Servoing | | |
+|  | Week 12 | Lecture 13: Robotic Grasping | | |
+|  | Week 13~16 | Final Projects | | |
 
 Full notes index: [Lecture Notes](notes/index.qmd).

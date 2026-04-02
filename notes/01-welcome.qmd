@@ -1,0 +1,68 @@
+---
+title: "Lecture 01: Prepare Environments"
+execute:
+  enabled: false
+---
+
+This note covers the required environment setup for the course.
+
+## 1) Install Ubuntu 22.04 {.unnumbered}
+
+Use **Ubuntu 22.04 LTS** with one of the following options:
+
+- Replace your current OS with Ubuntu
+- Dual boot (Ubuntu + your current OS)
+- Run Ubuntu in a virtual machine
+
+References:
+
+- Ubuntu 22.04 download: [Ubuntu 22.04 LTS](https://releases.ubuntu.com/22.04/)
+- Official installation guide: [Install Ubuntu Desktop](https://ubuntu.com/tutorials/install-ubuntu-desktop)
+- Virtual machine option (VirtualBox): [VirtualBox Downloads](https://www.virtualbox.org/wiki/Downloads)
+
+## 2) Create Git ID and learn Git {.unnumbered}
+
+Create your GitHub account and configure your local Git identity.
+
+- GitHub sign up: [Create GitHub account](https://github.com/signup)
+- Git installation: [Git Downloads](https://git-scm.com/downloads)
+
+Set your Git identity:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+```
+
+Tutorials:
+
+- Interactive tutorial: [Learn Git Branching](https://learngitbranching.js.org/)
+- Reference book: [Pro Git Book](https://git-scm.com/book/en/v2)
+
+## 3) Set up Conda environment {.unnumbered}
+
+Install Miniconda, then create a course environment.
+
+- Miniconda installation: [Miniconda docs](https://docs.conda.io/en/latest/miniconda.html)
+- Conda environments guide: [Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
+Example setup:
+
+```bash
+conda create -n rslab python=3.10 -y
+conda activate rslab
+```
+
+## 4) Use VS Code {.unnumbered}
+
+Install and use VS Code for coding, notebook editing, and Git workflow.
+
+- VS Code installation (Linux): [VS Code setup](https://code.visualstudio.com/docs/setup/linux)
+- VS Code docs: [Get started with VS Code](https://code.visualstudio.com/docs)
+
+Recommended extensions:
+
+- Python
+- Jupyter
+- GitLens
+

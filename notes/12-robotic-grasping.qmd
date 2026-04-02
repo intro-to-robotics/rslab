@@ -1,5 +1,0 @@
----
-title: "Robotic Grasping"
----
-
-Content coming soon.

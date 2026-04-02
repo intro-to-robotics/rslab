@@ -1,5 +1,0 @@
----
-title: "Operational Space Impedance Control"
----
-
-Content coming soon.

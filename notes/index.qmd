@@ -3,21 +3,24 @@ title: "Lecture Notes"
 ---
 
 ::: {.lecture-list}
+### Introduction {.unnumbered}
+Lecture 01: Course Introduction 
+
 ### Robotics Software Architecture {.unnumbered}
-[Lecture 01: Physics Simulation](01-physics-simulation.qmd)<br>
-[Lecture 02: LCM Communication](02-lcm-based-communication-and-control.qmd)<br>
+Lecture 02: Physics Simulation<br>
+Lecture 03: LCM Communication<br>
 
 ### Robot Modeling, Planning, and Control {.unnumbered}
-[Lecture 03: Gravity Compensation](03-gravity-compensation.qmd)<br>
-[Lecture 04: Robot Collision Geometry Modeling](04-robot-collision-geometry-modeling.qmd)<br>
-[Lecture 05: Artificial Potential Fields](05-artificial-potential-fields.qmd)<br>
-[Lecture 06: Motion Planning and Trajectory Tracking](06-motion-planning-and-trajectory-tracking.qmd)<br>
-[Lecture 07: Operational Space Impedance Control](07-operational-space-impedance-control.qmd)<br>
-[Lecture 08: Velocity Field Control](08-velocity-field-control.qmd)<br>
+Lecture 04: Gravity Compensation<br>
+Lecture 05: Robot Collision Geometry Modeling<br>
+Lecture 06: Artificial Potential Fields<br>
+Lecture 07: Motion Planning and Trajectory Tracking<br>
+Lecture 08: Operational Space Impedance Control<br>
+Lecture 09: Velocity Field Control<br>
 
 ### Sensing and Perception {.unnumbered}
-[Lecture 09: Camera Calibration](09-camera-calibration.qmd)<br>
-[Lecture 10: Signed Distance Field Construction](10-signed-distance-field-construction.qmd)<br>
-[Lecture 11: Visual Servoing](11-visual-servoing.qmd)<br>
-[Lecture 12: Robotic Grasping](12-robotic-grasping.qmd)<br>
+Lecture 10: Camera Calibration<br>
+Lecture 11: Signed Distance Field Construction<br>
+Lecture 12: Visual Servoing<br>
+Lecture 13: Robotic Grasping<br>
 :::

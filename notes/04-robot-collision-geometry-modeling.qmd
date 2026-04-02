@@ -1,5 +1,0 @@
----
-title: "Robot Collision Geometry Modeling"
----
-
-Content coming soon.
