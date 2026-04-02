@@ -7,10 +7,10 @@ Lecturer: [Yonghyeon Lee](https://www.gabe-yhlee.com)
 
 ## Syllabus
 
-This course introduces core topics in robotic systems, starting from software
-architecture and simulation, then moving through robot modeling, planning, and
-control, and finally covering sensing and perception for integrated
-robotic autonomy.
+This course focuses on building practical robotics skills through a
+simulation-first workflow and weekly real-robot implementation assignments.
+By the end of the lectures, students will be able to integrate perception,
+planning, and control into a complete robotic pipeline.
 
 ### Lecture Schedule
 
